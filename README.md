@@ -28,20 +28,6 @@ npm run dev
 
 By default, Vite serves the app at http://localhost:5173. The terminal will display the exact URL.
 
-## Getting Started
-1) Install dependencies
-
-```bash
-npm install
-```
-
-2) Start the dev server
-
-```bash
-npm run dev
-```
-
-By default, Vite serves the app at http://localhost:5173. The terminal will display the exact URL.
 
 ## Tech Stack
 - React 19
